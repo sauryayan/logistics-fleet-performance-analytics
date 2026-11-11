@@ -9,8 +9,8 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
-data_profiling.ipynb
 Key_relationship_validation.ipynb
+data_profiling.ipynb
 
 # Credentials
 .env
@@ -19,6 +19,7 @@ Key_relationship_validation.ipynb
 # Dataset files
 data/raw/*
 data/processed/*
+data/manual_files/*
 
 # Preserve folder instructions
 !data/raw/README.md
@@ -32,3 +33,4 @@ data/processed/*
 .DS_Store
 Thumbs.db
 desktop.ini
+

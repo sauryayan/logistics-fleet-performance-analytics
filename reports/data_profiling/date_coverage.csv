@@ -1,7 +1,7 @@
 table_name,column_name,valid_dates,missing_dates,invalid_dates,minimum_date,maximum_date
 customers,contract_start_date,200,0,0,2020-01-03 00:00:00,2022-01-01 00:00:00
-delivery_events,scheduled_datetime,119229,0,51591,2026-11-11 00:00:00,2026-11-11 23:59:54
-delivery_events,actual_datetime,68231,0,102589,2026-11-11 00:00:00,2026-11-11 23:59:54
+delivery_events,scheduled_datetime,119229,0,51591,2026-11-12 00:00:00,2026-11-12 23:59:54
+delivery_events,actual_datetime,68231,0,102589,2026-11-12 00:00:00,2026-11-12 23:59:54
 driver_monthly_metrics,month,4464,0,0,2022-01-01 00:00:00,2024-12-01 00:00:00
 driver_monthly_metrics,on_time_delivery_rate,4464,0,0,1970-01-01 00:00:00,1970-01-01 00:00:00
 drivers,hire_date,150,0,0,2012-01-28 00:00:00,2021-12-06 00:00:00
