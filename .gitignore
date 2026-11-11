@@ -9,6 +9,8 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+data_profiling.ipynb
+Key_relationship_validation.ipynb
 
 # Credentials
 .env

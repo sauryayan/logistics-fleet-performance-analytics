@@ -1,0 +1,15 @@
+table_name,key_columns,duplicate_rows,null_key_rows,status
+drivers,driver_id,0,0,PASS
+trucks,truck_id,0,0,PASS
+trailers,trailer_id,0,0,PASS
+customers,customer_id,0,0,PASS
+facilities,facility_id,0,0,PASS
+routes,route_id,0,0,PASS
+loads,load_id,0,0,PASS
+trips,trip_id,0,0,PASS
+fuel_purchases,fuel_purchase_id,0,0,PASS
+maintenance_records,maintenance_id,0,0,PASS
+delivery_events,event_id,0,0,PASS
+safety_incidents,incident_id,0,0,PASS
+driver_monthly_metrics,driver_id + month,0,0,PASS
+truck_utilization_metrics,truck_id + month,0,0,PASS
